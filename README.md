@@ -7,6 +7,39 @@
 The **Real-Time User-Interactive Wireless Dot-Matrix Display System** is an embedded systems project designed to customize and control display patterns on four multiplexed 8×8 dot-matrix LED displays wirelessly using a Bluetooth module. The system also integrates real-time temperature monitoring and RTC-based time and date display.
 
 The project uses the **LPC2148 ARM7 microcontroller**, **HC-05 Bluetooth module**, **74HC164 shift registers**, **74HC573 latches**, and **LM35 temperature sensor** to provide a user-interactive wireless display solution.
+## 📸 Project Demonstration
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="connection_hardware.jpeg" width="1600"><br>
+<b>LCD Output (Live Readings)</b><br>
+<sub>TEMP: 29°C | string:VECT|Blink</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="string scrolling.jpeg" width="1600"><br>
+<b>Full Hardware Setup</b><br>
+<sub>LPC2148 DOT matrix display via Bluetooth</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="temperature display.jpeg" width="1600"><br>
+<b>tempearture blink+display</b><br>
+<sub> 8X8 DOT Matrix display</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🎯 Aim
 
@@ -259,39 +292,6 @@ Real-Time-Wireless-Dot-Matrix-Display/
     └── display_patterns.txt
 
 
-## 📸 Project Demonstration
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="connection_hardware.jpeg" width="1600"><br>
-<b>LCD Output (Live Readings)</b><br>
-<sub>TEMP: 29°C | string:VECT|Blink</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="string scrolling.jpeg" width="1600"><br>
-<b>Full Hardware Setup</b><br>
-<sub>LPC2148 DOT matrix display via Bluetooth</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="temperature display.jpeg" width="1600"><br>
-<b>tempearture blink+display</b><br>
-<sub> 8X8 DOT Matrix display</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 🚀 Future Scope
 
