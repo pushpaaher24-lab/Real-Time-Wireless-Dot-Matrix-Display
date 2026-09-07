@@ -317,4 +317,3 @@ Real-Time-Wireless-Dot-Matrix-Display/
 
 Embedded Systems Major Project 
 Platform:LPC2129 CAN Node Board |Keil µvision| Flash Magic
-
