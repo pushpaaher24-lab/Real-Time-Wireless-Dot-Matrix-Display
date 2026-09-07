@@ -261,6 +261,22 @@ EEPROM is used to store:
 
 The first three display options retrieve the stored string data from EEPROM and display it on the four dot-matrix LED modules.
 
+
+## 🚀 Future Scope
+
+The system can be further enhanced with:
+
+- Wi-Fi or IoT-based cloud connectivity.
+- Remote control through a web or mobile application.
+- Multiple interconnected display units.
+- Large scalable display boards for industrial and public information systems.
+- Additional sensors such as humidity, gas, and light sensors.
+- Mobile application-based GUI control.
+- Password-protected secure access.
+- Real-time data logging to cloud servers.
+- Voice-controlled display updates.
+- Integration with smart city infrastructure
+
 ## 📂 Suggested Repository Structure
 
 ```text
@@ -293,20 +309,7 @@ Real-Time-Wireless-Dot-Matrix-Display/
 
 
 
-## 🚀 Future Scope
 
-The system can be further enhanced with:
-
-- Wi-Fi or IoT-based cloud connectivity.
-- Remote control through a web or mobile application.
-- Multiple interconnected display units.
-- Large scalable display boards for industrial and public information systems.
-- Additional sensors such as humidity, gas, and light sensors.
-- Mobile application-based GUI control.
-- Password-protected secure access.
-- Real-time data logging to cloud servers.
-- Voice-controlled display updates.
-- Integration with smart city infrastructure.
 
 ## 👩‍💻 Author
 
