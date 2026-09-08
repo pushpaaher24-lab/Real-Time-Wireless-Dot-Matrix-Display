@@ -312,7 +312,9 @@ Real-Time-Wireless-Dot-Matrix-Display/
 │
 └── examples/
     └── display_patterns.txt
- `---`
+```
+
+---
 
 
 ## 📁  **Pushpa Aher**
