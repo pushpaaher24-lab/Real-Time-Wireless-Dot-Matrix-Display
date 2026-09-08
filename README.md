@@ -1,5 +1,3 @@
-# Real-Time-Wireless-Dot-Matrix-Display
-
 # Real-Time User-Interactive Wireless Dot-Matrix Display System
 
 ## 📌 Project Overview
