@@ -316,8 +316,7 @@ Real-Time-Wireless-Dot-Matrix-Display/
 
 ---
 
-
-## 📁  **Pushpa Aher**
+  **## 👨💻 Author**
 
 Embedded Systems Major Project 
-Platform:LPC2129 CAN Node Board |Keil µvision| Flash Magic
+Platform:LPC2148 8X8 DOT MATRIX|BLUETOOTH |Keil µvision| Flash Magic
