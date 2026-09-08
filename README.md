@@ -20,7 +20,7 @@ The project uses the **LPC2148 ARM7 microcontroller**, **HC-05 Bluetooth module*
 
 <b>Hardware Connections</b><br>
 
-<sub>Temperature: 29°C | String: VECT | LCD Blink</sub>
+<sub>Temperature: 29°C | String: VECT </sub>
 
 </td>
 
