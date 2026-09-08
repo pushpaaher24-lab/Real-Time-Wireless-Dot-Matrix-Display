@@ -317,6 +317,5 @@ Real-Time-Wireless-Dot-Matrix-Display/
 ---
 
   **## 👨💻 Author**
-
-Embedded Systems Major Project 
-Platform:LPC2148 8X8 DOT MATRIX|BLUETOOTH |Keil µvision| Flash Magic
+ **PUSHPA AHER**:Embedded Systems Major Project 
+ **Platform**:LPC2148 8X8 DOT MATRIX|BLUETOOTH |Keil µvision| Flash Magic
