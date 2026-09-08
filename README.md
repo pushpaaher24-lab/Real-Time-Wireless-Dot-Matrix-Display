@@ -312,14 +312,10 @@ Real-Time-Wireless-Dot-Matrix-Display/
 │
 └── examples/
     └── display_patterns.txt
+ `---`
 
 
-
-
-
-## 👩‍💻 Author
-
-**Pushpa Aher**
+## 📁  **Pushpa Aher**
 
 Embedded Systems Major Project 
 Platform:LPC2129 CAN Node Board |Keil µvision| Flash Magic
